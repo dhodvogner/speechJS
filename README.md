@@ -52,7 +52,7 @@ Events:
 
 * "starting" : Fiered when user starting speech recognition.
 * "started" : Fiered when speech recognition is started.
-* "stopping" : fiered when user stopping speech recognition.
+* "stopping" : Fiered when user stopping speech recognition.
 * "stopped" : Fiered when speech recogniton is stopped.
 * "optionschanged" : Fiered when user change speech recognition's settings.
 * "error" : Fiered when an error occurs.
