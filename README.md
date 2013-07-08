@@ -50,13 +50,13 @@ Options:
 Events:
 -------------
 
-* "starting" : Fiered when user starting speech recognition.
-* "started" : Fiered when speech recognition is started.
-* "stopping" : Fiered when user stopping speech recognition.
-* "stopped" : Fiered when speech recogniton is stopped.
-* "optionschanged" : Fiered when user change speech recognition's settings.
-* "error" : Fiered when an error occurs.
-* "result" : Fiered when speech recognition got results.
+* "starting" : Fired when user starting speech recognition.
+* "started" : Fired when speech recognition is started.
+* "stopping" : Fired when user stopping speech recognition.
+* "stopped" : Fired when speech recogniton is stopped.
+* "optionschanged" : Fired when user change speech recognition's settings.
+* "error" : Fired when an error occurs.
+* "result" : Fired when speech recognition got results.
 
 Handle Error & Result events
 -------------
